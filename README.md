@@ -1,5 +1,5 @@
 # DSA-Project
-##Text Editor
+## Text Editor
 \
 \
 -It is a simple text editor with undo and redo functionality.\
